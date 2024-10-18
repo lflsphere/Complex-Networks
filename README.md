@@ -4,7 +4,7 @@
 * [Intoduction à la programmation avec le language Python](doc/IntroPython.pdf)
 * [Python for data Analysis](doc/Python-for-Data-Analysis.pdf)
 
-## install virtual environement
+## Install virtual environement
 
 #### With virtualenv
 ```bash
