@@ -1,6 +1,5 @@
 # NET 4103/7431: Complex Networks
 
-## Contents of the git Repository
 #### Documentation  
 * [Intoduction à la programmation avec le language Python](doc/IntroPython.pdf)
 * [Python for data Analysis](doc/Python-for-Data-Analysis.pdf)
