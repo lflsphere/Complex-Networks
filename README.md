@@ -9,23 +9,23 @@
 
 #### With virtualenv
 ```bash
-$ python -m venv net
-$ source net/bin/activate
+$ python -m venv netenv
+$ source netenv/bin/activate
 $ pip install --upgrade pip
 $ python -m pip install -r requirements.txt  
 ```
 
 #### with conda 
 ```bash
-$ conda create -n net python=3.8    
-$ conda activate net
+$ conda create -n netenv python=3.8    
+$ conda activate netenv
 $ pip3 install --upgrade pip
 $ pip install -r requirements.txt  
 ```
 
 ## Create the jupyter kernel
 ```bash
-$ python -m ipykernel install --user --name=net 
+$ python -m ipykernel install --user --name=netenv
 ```
 
 #### Data
